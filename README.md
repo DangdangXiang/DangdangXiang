@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning 《Software code development technology》!
+- My name is Xiejia Ming from Guangdong, China！
+- 💬 Ask me about 782893110@qq.com
 <!--
 **DangdangXiang/DangdangXiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
